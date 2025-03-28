@@ -8,17 +8,18 @@
 
 1. Reduction 1 
     Result:
-    Total sum from CPU: 4.1943e+06
-    Total sum from GPU: 4.1943e+06
-    CPU and GPU results match
-    CPU time: 15.5031 ms
-    GPU time: 1.4103 ms
-    Speedup: 10.9928
+   
+    > Total sum from CPU: 4.1943e+06
+    > Total sum from GPU: 4.1943e+06
+    > CPU and GPU results match
+    > CPU time: 15.5031 ms
+    > GPU time: 1.4103 ms
+    > Speedup: 10.9928
 
-    DRAM Throughput  8.09% of peak
+    > DRAM Throughput  8.09% of peak
 
 
-2. Reduction 2
+3. Reduction 2
     Total sum from CPU: 4.1943e+06
     Total sum from GPU: 4.1943e+06
     CPU and GPU results match
@@ -26,7 +27,7 @@
     GPU time: 1.04214 ms
     Speedup: 14.9471
 
-3. Reduction 3
+4. Reduction 3
     Total sum from CPU: 4.1943e+06
     Total sum from GPU: 4.1943e+06
     CPU and GPU results match
@@ -36,7 +37,7 @@
 
     DRAM Throughput   13.40%
 
-4. Reduction 4
+5. Reduction 4
     Total sum from CPU: 4.1943e+06
     Total sum from GPU: 4.1943e+06
     CPU and GPU results match
@@ -46,7 +47,7 @@
 
     DRAM Throughput   25.40%
 
-5. Reduction 5
+6. Reduction 5
     Total sum from CPU: 4.1943e+06
     Total sum from GPU: 4.1943e+06
     CPU and GPU results match
@@ -56,7 +57,7 @@
 
     DRAM Throughput   25.40%
 
-6. Reduction 6
+7. Reduction 6
     Total sum from CPU: 8.38861e+06
     Total sum from GPU: 8.38861e+06
     CPU and GPU results match
@@ -66,7 +67,7 @@
 
     DRAM Throughput   55.51%
 
-7. Reduction 7
+8. Reduction 7
     Total sum from CPU: 8.38861e+06
     Total sum from GPU: 8.38861e+06
     CPU and GPU results match
